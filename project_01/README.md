@@ -6,7 +6,7 @@ My Web Application is going to be a Beauty App that allows a user to look up a p
 ## Features
 Reviews: Users can leave a review on each individual product.
 
-Search: Users can search and filter products by category.
+Search Filter: Users can search and filter products by brand, type, and tag.
 
 Custom Post Types: Allows Admin to update products easily as a Wordpress post type.
 
